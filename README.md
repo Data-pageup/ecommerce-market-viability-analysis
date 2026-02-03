@@ -5,7 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-1.3+-orange.svg)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)](https://scikit-learn.org/)
 
-> **A data-driven framework to identify high-potential markets and operational risks in e-commerce expansion — delivered in 5 hours**
+> **A data-driven framework to identify high-potential markets and operational risks in e-commerce expansion — delivered in 4 hours**
 
 ---
 
